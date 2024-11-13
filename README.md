@@ -22,3 +22,6 @@
 ### Code Optimization and Debugging
 - Identified and resolved issues like duplicate events and non-functional buttons post-refresh.
 - Ensured a clean and efficient codebase for an optimized user experience.
+
+### Figma Demo Layout
+![image](https://github.com/user-attachments/assets/b43d29bd-d484-4a0f-a191-82f301dc0da0)
